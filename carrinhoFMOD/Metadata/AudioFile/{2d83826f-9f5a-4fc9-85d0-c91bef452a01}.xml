@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2d83826f-9f5a-4fc9-85d0-c91bef452a01}">
+		<property name="assetPath">
+			<value>crate_break.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.2004988662131519</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{de8633df-b746-487f-8a70-80a9c3e6b433}</destination>
+		</relationship>
+	</object>
+</objects>

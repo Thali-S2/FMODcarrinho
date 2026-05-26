@@ -1,0 +1,18 @@
+# =========================================================================
+# FMOD Studio Project Files
+# =========================================================================
+# Ignore local user preferences and window layouts
+.user/
+*.user
+
+# Ignore locally generated cache files (e.g., encoded asset chunks)
+.cache/
+
+# Ignore autosave files and crash backups
+.unsaved/
+
+# Ignore locally generated build logs
+fmod_editor.log
+
+# Optional: Ignore the Profiler sessions if they bloat your repo with huge audio captures
+# Plugins/Profiler/
